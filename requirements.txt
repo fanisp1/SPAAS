@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+numpy
+pandas
+scipy
+numba
+ortools
+pyomo
+networkx
+cupy
+scikit-learn
+python-multipart
