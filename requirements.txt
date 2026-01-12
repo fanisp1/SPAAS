@@ -7,6 +7,7 @@ numba
 ortools
 pyomo
 networkx
-cupy
+# cupy
 scikit-learn
 python-multipart
+openpyxl
