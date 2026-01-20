@@ -117,7 +117,7 @@ export default function ProtectionRulesConfig({ rules, onRulesChange }: Protecti
       {/* Reset Button */}
       <button
         onClick={() => onRulesChange({
-          minFrequency: 10,
+          minFrequency: 3,
           dominanceN: 1,
           dominanceK: 80.0,
           pPercent: 10.0
